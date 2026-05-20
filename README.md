@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖥️ RustDesk Server — Interactive Installer
+# 🖥️ RustDesk Server - Interactive Installer
 
 **Интерактивный Bash-установщик самохостируемого сервера RustDesk**
 
