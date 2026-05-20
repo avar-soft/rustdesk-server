@@ -46,13 +46,13 @@
 
 ```bash
 # Скачать и запустить установщик
-curl -fsSL https://raw.githubusercontent.com/<your-user>/<your-repo>/main/rustdesk.sh | bash
+curl -fsSL https://raw.githubusercontent.com/avar-soft/rustdesk-server/main/rustdesk.sh | bash
 ```
 
 Или с явной загрузкой файла:
 
 ```bash
-wget https://raw.githubusercontent.com/<your-user>/<your-repo>/main/rustdesk.sh
+wget https://raw.githubusercontent.com/avar-soft/rustdesk-server/main/rustdesk.sh
 chmod +x rustdesk.sh
 ./rustdesk.sh
 ```
