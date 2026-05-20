@@ -2,7 +2,7 @@
 
 # 🖥️ RustDesk Server - Interactive Installer
 
-**Интерактивный Bash-установщик самохостируемого сервера RustDesk**
+**Интерактивный Bash-установщик сервера RustDesk**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Shell Script](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white)](rustdesk.sh)
