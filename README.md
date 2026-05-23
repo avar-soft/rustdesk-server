@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖥️ RustDesk Server
+# 🖥️ RustDesk Server Lite
 **Интерактивный Bash-установщик сервера RustDesk**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
